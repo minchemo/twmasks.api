@@ -1,1 +1,6 @@
 data.csv
+node_modules
+start.js
+package-lock.json
+app.js
+data.csv
